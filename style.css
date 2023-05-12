@@ -1,0 +1,78 @@
+#r{
+    background-color:white;
+}
+#box{
+    background-image: linear-gradient(to top left, rgb(186, 188, 197), rgb(116, 129, 163));
+}
+#btn{
+   font-size: large;
+    color: white;
+}
+#btn:hover{
+    font-family: 'Times New Roman', Times, serif;
+    transition:.9s;
+    font-size: larger;
+}
+#user{
+    color: rgb(235, 12, 12);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bolder;
+}
+.h1{
+    color: rgb(0, 217, 255);
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    background-color: blue;
+}
+.h1:hover{
+    text-decoration:underline;
+    color: rgb(255, 255, 255);
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size:50px ;
+    transition: .8s;
+}
+#bud{
+    padding: 10px;
+    height: 200px;
+    width: 300px;
+    background-image: linear-gradient(rgba(255, 0, 0, 0.185), rgba(255, 255, 0, 0.116));
+    border-radius: 50px 50px 50px;
+    filter: drop-shadow(0 0 0.75rem crimson);
+    
+    
+}
+.col-4{
+    padding-left :200px ;
+}
+
+#r2{
+    background-image: url('https://th.bing.com/th/id/OIP.qQYxz14WME6gGyF1STKlFwHaEo?w=266&h=180&c=7&r=0&o=5&pid=1.7');
+    background-repeat: no-repeat;
+    background-size: cover;
+   
+    height: 650px;
+}
+#budget1{
+    background-color: rgb(254, 255, 252);
+   
+}
+.bt{
+    background-image:linear-gradient(yellow, rgb(255, 187, 0));
+    font-weight: bolder;
+    color: white;
+  
+}
+.exp{
+    background-image: linear-gradient(rgba(255, 0, 0, 0.185), rgba(255, 255, 0, 0.116));
+    height: 200px;
+    width: 300px;
+    padding: 15px;
+    border-radius: 50px 50px 50px;
+    filter: drop-shadow(0 0 0.75rem crimson);
+}
+.tot{
+    background-image: linear-gradient(rgba(255, 0, 0, 0.185), rgba(255, 255, 0, 0.116));
+padding: 15px;
+border-radius: 50px 50px 50px;
+filter: drop-shadow(0 0 0.75rem crimson);
+}
